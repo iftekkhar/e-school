@@ -1,0 +1,127 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+p{
+    color:#6C6B6B;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+
+}
+h1{
+    font-size: 48px;
+    line-height: 70px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+h2{
+    font-size: 36px;
+    line-height: 54px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+h4{
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: medium;
+    font-family: 'Poppins', sans-serif;
+}
+.custom-nav a{
+    color:#000 !important;
+    padding: 10px 20px !important;
+}
+.button-nav a{
+    color:#fff !important;
+    padding: 10px 30px !important;
+}
+.green-btn{
+    background-color: #21B573;
+    border-radius: 33px;
+    color:#fff;
+    padding: 10px 30px
+}
+
+header{
+    background: #F0FFF0;
+}
+.hero-section{
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+.hero-section p{
+    line-height: 36px;
+}
+.featured-section{
+    margin-top: 50px;
+}
+.featured-item{
+    background: #F8FFFB;
+    text-align: center;
+    padding: 20px 20px;
+    border-radius: 10px;
+}
+.featured-item:hover {
+    background: #fff;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.1);
+}
+.featured-item h4{
+    color:#413960;
+}
+
+.featured-item img{
+    width: 66px;
+    height: 83px;
+    margin-bottom: 20px;
+}
+
+
+
+.courses,.testimonial,.blog{
+    margin-top: 80px;
+}
+.courses h2,.testimonial h2,.blog h2{
+    margin-bottom: 50px;
+}
+.card{
+    border:none;
+    border-radius: 10px;    
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); 
+
+}
+.card-body img{
+ margin-bottom: 20px;
+}
+.course-meta,.blog-meta{
+    margin-top: 30px;
+}
+.course-meta p, .blog-meta p{
+ padding-left: 10px;
+ color:#585859;
+}
+.testimonial p{
+    color:#a7a7a7;
+}
+.card-body a h5 {
+    color: #000;
+ 
+}
+.card-body a:hover {
+    color: #000;
+    text-decoration: none;
+}
+
+footer{
+    margin-top: 80px;
+    padding-top: 50px;
+    background:#282531 ;
+    color: #fff
+}
+footer p{
+    color: #fff
+}
+.copyright{
+    padding: 50px 0 30px 0;
+    color:#CDCDCD;
+
+}
